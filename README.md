@@ -1,5 +1,7 @@
 # libft - README
 
+![libft](https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png?raw=true)
+
 ## Überblick
 
 Dieses Repository enthält die Implementierung einer grundlegenden C-Bibliothek, libft, im Rahmen des 42-Programmierkurses. Die Bibliothek umfasst Funktionen, die in späteren Projekten als Hilfsmittel dienen sollen. Die README bietet eine Übersicht über die Struktur, Funktionen und technischen Aspekte der Bibliothek.
